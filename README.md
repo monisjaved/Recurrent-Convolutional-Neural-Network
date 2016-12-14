@@ -12,7 +12,7 @@ The model developed in this project uses combination of Recurrent and Convolutio
 Database of 10000 tweets is used for creating word embeddings using word2vec. A subset of that data of size 1532 is used for training and testing. Training is done with 1000 tweets and testing is done with 532 tweets set by randomly dividing the dataset.
 
 ## Training
-Training is carried using GPU, Nvdia GeForce 940M
+Training is carried using GPU, Nvdia GeForce 750M
 
 Before training create initial word embeddings from your text corpse using word2vec.
 
